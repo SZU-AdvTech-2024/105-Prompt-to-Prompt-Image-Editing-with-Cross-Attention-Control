@@ -1,0 +1,6 @@
+@article{REPO105,
+    author = "Hertz, Amir and Mokady, Ron and Tenenbaum, Jay and Aberman, Kfir and Pritch, Yael and Cohen-Or, Daniel",
+    booktitle = "arXiv preprint arXiv:2208.01626",
+    title = "{Prompt-to-prompt image editing with cross attention control}",
+    year = "2022"
+}
